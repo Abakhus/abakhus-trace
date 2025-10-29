@@ -14,7 +14,7 @@
 After a deep research on COC (Chain of Custody) systems for emr, biological samples, vaccines and medicines we have mapped all the common events related to all those systems, then Abakhus-Trace will have a generic workflow for all those commom events and be flexible enough to add specific events when needed. Below is an example of Abakhus-Trace Data Flow specific for EMR
 
 <p align="center">
-<img src="Abakhus-Trace-dataflow.png" width="650"/>
+<img src="abakhus-trace-dataflow.png" width="650"/>
 </p>
 
 # Abakhus-Trace privacy-first approach
