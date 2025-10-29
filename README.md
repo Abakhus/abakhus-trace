@@ -24,3 +24,7 @@ Check Abakhus-Trace video on privacy-preserving (zkproofs and hashes) approach [
 # Initial smart-contract prototyped and deployed at Arbitrum Sepolia
 
 Abakhus-Trace contract deployed at Arbitrum Sepolia: [https://sepolia.arbiscan.io/address/0x650c65ccb7d5f430f87c16c9622e7bb9492fdef7](https://sepolia.arbiscan.io/address/0x650c65ccb7d5f430f87c16c9622e7bb9492fdef7)
+
+# License
+
+All rights reserved
